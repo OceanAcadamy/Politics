@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "politics-32519",
+  "private_key_id": "dd5acb1930ac8a346c97877206fb142325301a88",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4OISEp6/pan99\nftUzUlVe8anKM699zTHoTBiO4xMappgUASoWcy2+wlBfIb1f+wFLq7WzQg6Yq4jm\n8yLsUg3y/W9cs5Z/f0MWlJINxHJEnDxImYJT4VK/TRyOtzRkCpL82u5Y5Ix0iiS4\nVzKOpCa97N0fTPD1VfiW89g6t7hOBhNva2ayDcZn83j4Mav7ANuGsH4ekR41cI/c\n915U9lCivqnCfHbkSCaDpom9/XtGeWf9TSryvYOOqheyH2uWULnU0nnvqRcD4hpW\nPpyfA/RXphz6w4asLOL8J2LZ/NeVm7jn9it7qOnK+jEX49bfiMjZIZbeUJZaB4XW\nGeI6qXhHAgMBAAECggEAJgbEk/1pOm1ZU7ZSm/1q0eZgffSdTQKGQsUybIxC7UVm\nLvrujSPJVY8WuAxm4uEVK2GOaCpCiREfeUzG8LEfYAEgc6o+bqL+XjLc0yqxy6fU\nacgGNvpT8lkgg/UdQ2lLXhZzDLZgp828NrEJJpiLxriWDFf9hSbx4XcEM1qpGLGe\nc85IE5CCdwXrt6Xr/rupoYLoqtLIKvoS95qa5EfXkWs/ToGuQCSi/e82OCooHPQn\nAjUmVQQNBmR8dtp5C7lq6EkmBktcYyX/t5CB9JXmimzd2vJvuojSWEZjlo3XGTSB\nU8pOMPbWlwtQgGqM0jcb/p0mD5XUIvipYAd2EggwwQKBgQDqzU50tdeeSw72x45F\nlE3gw32UYcxtOlM/JssniDVwKj/l3HpxgBDH/U2XnaQqg83ICXMGXl9WY6dfxLqR\nJ/+hkOUOgL3Nz/KsbZZlPe/UKK0sIkZbkHG204xparjVbuHlYBLX01TQg2EyTG3u\n9QOoojQnf2Z4yzXwRYJNYhi5KwKBgQDI2jBmq/bC/k35rrcDAF29gM3lFlNlLVVe\nThACIyUs5gxNBjw3UMik31KpBFWtRsC+kHY3KNYJ2RSHRJ1S0eJ0be/ftgvIs4L6\n5hRHogcMCuCPzvIkWmVkwfMCk2u3iMIa1GwlRTl2bKbuhoU/ocdRKBHU3RmU1nyS\nhiFhzKN3VQKBgCtrUcHFSp0L9jVuS4HUXd5daCCDQUFFktVPwCuMRY17UpuX/NB2\nRSQmVC3gSdZOz0PZc3rPAsQ/41iTUYi8I8plt+XJqs+fT5nRHgmUvX+3EebiY65U\n9KJBVmq8AHf/bCh1bqaYfsucL+IUPhP9HPMXI5vWNEXMFipbQDA9HqNHAoGAMggP\nyHOLm1UHjWuVEP1VXHAqWadvDKP3QO+HE1E34HBJniIwe8L2yAMNLybyRKB8QLvx\nhpn4fymA8JUJ72hy1XfRKdPKKat1tBP99z4ILVrER25QaPfPjAK4Cus4CNbbKx3A\n9qPAxZwZFQ+TP5+H69JkZrbQuX+YNlONGzSDf6UCgYEAyWkYYCdCqE2ijQEIr398\nBWDhOQdz/uyqZimLXXyu3eldQBzw1NVYZ0JTHsj/eNZLUq8Fo0rlC/16zy30owMO\ndUe5jxgGtwLlrJoJo/IJyJO+/qCCkGucwb8s/mvwwuDTTuBjmjYd8CEyD1YkC+GM\nnrJ4k4ogxx7N8T2kZ4UnfaY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-54z4j@politics-32519.iam.gserviceaccount.com",
+  "client_id": "105474719758139826018",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-54z4j%40politics-32519.iam.gserviceaccount.com"
+}
